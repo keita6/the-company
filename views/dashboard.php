@@ -21,7 +21,7 @@ $user_list = $user->getAllUsers($_SESSION['user_id']) ;
     <nav class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container">
             <a href="dashboard.php" class="navbar-brand">
-                <h1 class="h3"> The Company</h1>
+                <h1 class="h3"> The Company online</h1>
             </a>
             <div class="ms-auto">
                 <ul class="navbar-nav">
